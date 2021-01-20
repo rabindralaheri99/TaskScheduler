@@ -1,0 +1,6 @@
+framework module Pods_ScheduleTracker {
+  umbrella header "Pods-ScheduleTracker-umbrella.h"
+
+  export *
+  module * { export * }
+}
